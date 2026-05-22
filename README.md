@@ -69,7 +69,8 @@ END
 
 ## OUTPUT
 
-[DocScanner May 22, 2026 9-01 PM.pdf](https://github.com/user-attachments/files/28154731/DocScanner.May.22.2026.9-01.PM.pdf)
+<img width="730" height="1280" alt="WhatsApp Image 2026-05-22 at 9 10 55 PM" src="https://github.com/user-attachments/assets/2f377473-a83b-4bd1-8478-5c278ca05603" />
+
 
 
 ## RESULT
